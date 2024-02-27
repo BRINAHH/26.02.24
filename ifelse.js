@@ -1,9 +1,10 @@
 //console.log("Hello Word");//
 
-var x = 1;//VAR= varialvel 
+//VAR= varialvel 
+var x = 1;//a variavel X e igual a 1
 var y = 1;// a variavel Y e igual a 1
 
-//IF isi x e y tem o mesmo valor 
+//Estrutura de possibiliodade de x e y tem o mesmo valor 
 if (x == y) {
     console.log("Número conferem!");//console.log coloca tudo no console numero conferem
 
